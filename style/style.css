@@ -1,0 +1,112 @@
+body {
+	font-family: sans-serif;
+}
+
+.content_wrapper {
+	margin: 0 auto;
+	width: 90%;
+	line-height: 20px;
+}
+
+nav {
+	text-align: center;
+	background-color: #FFB00F;
+	display: inline-block;
+	margin: 0 auto;	
+	font-size: 18px;
+	width: 100%;
+	background-image: url(http://scr.templates.com/screenshots/illustrations/vector-illustration-of-the-sun-on-the-yellow-background-o.2300.2355.jpg);
+	background-repeat: no-repeat;
+	background-position: 100% 25%;
+	min-width: 1000px;
+
+}
+
+#nav_wrapper {
+	width: 100%;
+	background-color: #FFB00F;
+	text-align: center;
+}
+
+ul.navigation li {
+	float: left;
+	padding: 40px 80px 40px 0px;
+	list-style: none;
+	color: white;
+	display: inline;
+}
+
+ul.navigation a {
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}
+
+ul.navigation a:hover {
+	color: #3bb9ff;
+}
+
+footer {
+	background-color: #FFB00F;
+	display: inline-block;
+	margin: 0 auto;	
+	font-size: 18px;
+	width: 100%;
+	position: absolute;
+	bottom: 0%;
+
+}
+
+#contact_info {
+	list-style: none;
+	margin: 0px;
+	position: relative;
+	bottom: -10px;
+	font-size: 14px;
+	letter-spacing: 3px;
+	color: white;
+
+}
+
+#facebook_link {
+	float: right;
+	position: relative;
+	left: -40px;
+	top: -35px;
+	letter-spacing: 1px;
+	color: white;
+}
+
+#facebook_link:hover {
+	text-decoration: underline;
+}
+
+/* STYLE YOUR OWN BELOW*/
+
+
+/* HOME */
+
+
+
+
+
+
+/* ABOUT */
+
+
+
+
+
+
+/* TAKE ACTION */
+
+
+
+
+
+
+
+
+
