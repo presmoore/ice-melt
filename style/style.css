@@ -21,11 +21,6 @@ nav {
 
 }
 
-#nav_wrapper {
-	width: 100%;
-	background-color: white;
-}
-
 ul.navigation li {
 	float: left;
 	padding: 40px 80px 40px 0px;
