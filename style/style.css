@@ -78,13 +78,26 @@ footer {
 
 
 /* HOME */
+.p_spacing {
+
+}
+
 #the_issue {
 	width: 25%;
 	height: 0 auto;
 	float: left;
+	padding-right: 15px;
 }
 
+#movie1 {
+	margin-left: 25%;
+}
 
+#co2 {
+	width: 25%;
+	height: 0 auto;
+	float: left;
+	padding-right: 15px;
 
 /* ABOUT */
 
