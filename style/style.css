@@ -98,6 +98,10 @@ footer {
 	height: 0 auto;
 	float: left;
 	padding-right: 15px;
+}
+.last_sentence {
+	font-weight: bold;
+}
 
 /* ABOUT */
 
