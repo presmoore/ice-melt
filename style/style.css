@@ -22,7 +22,7 @@ nav {
 
 ul.navigation li {
 	float: left;
-	padding: 40px 80px 40px 0px;
+	padding: 30px 80px 45px 10px;
 	list-style: none;
 	color: white;
 	display: inline;
@@ -78,8 +78,6 @@ footer {
 
 
 /* HOME */
-
-
 
 
 
