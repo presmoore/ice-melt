@@ -78,7 +78,11 @@ footer {
 
 
 /* HOME */
-
+#the_issue {
+	width: 25%;
+	height: 0 auto;
+	float: left;
+}
 
 
 
