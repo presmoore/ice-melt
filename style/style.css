@@ -152,6 +152,27 @@ h3.center {
 
 
 
+/* PARTNERS */
+
+#phead {
+	text-align: center;
+	font: 48px Georgia, serif;
+
+}
+
+.partner {
+	width: 600px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;
+	
+}
+
+.partner p {
+
+}
+
+
 
 
 
