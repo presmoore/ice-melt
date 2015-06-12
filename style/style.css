@@ -5,7 +5,7 @@ body {
 .content_wrapper {
 	margin: 0 auto;
 	width: 90%;
-	line-height: 20px;
+	line-height: 20px;	
 }
 
 nav {
@@ -17,7 +17,7 @@ nav {
 	background-image: url(http://scr.templates.com/screenshots/illustrations/vector-illustration-of-the-sun-on-the-yellow-background-o.2300.2355.jpg);
 	background-repeat: no-repeat;
 	background-position: 100% 25%;
-	min-width: 1000px;
+	min-width: 1200px;
 }
 
 ul.navigation li {
@@ -74,6 +74,15 @@ footer {
 	text-decoration: underline;
 }
 
+h3 {
+	letter-spacing: 1px;
+}
+
+p {
+	line-height: 25px;
+	text-align: justify;
+	}
+	
 /* STYLE YOUR OWN BELOW*/
 
 
@@ -105,10 +114,39 @@ footer {
 
 /* ABOUT */
 
+h3.center {
+	text-align: center;
+	padding-bottom: 30px;
+}
 
+#our_story_wrapper {
+	margin: 50px 0px 80px 0px;
+}
 
+#our_approach_wrapper_one {
+	margin: 50px 0px 80px 0px;
+}
 
+#our_approach_wrapper_two {
+	margin: 50px 0px 150px 0px;
+}
 
+#pollution_photo {
+	width: 40%;
+	float: left;
+	margin: 10px 40px 20px 0px;
+}
+
+#polar_bear_photo {
+	width: 25%;
+	float: right;
+	margin: 0px 10px 10px 30px;
+}
+
+.team_photo {
+	width: 23%;
+	padding: 5px;
+}
 
 /* TAKE ACTION */
 
