@@ -154,6 +154,51 @@ h3.center {
 
 
 
+/* PARTNERS */
+
+#phead {
+	text-align: center;
+	font: 48px Georgia, serif;
+
+}
+
+.partner {
+	width: 600px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;	
+}
+
+.partner p {
+
+}
+
+.lap {
+	/*-o-box-shadow:      12px 12px 29px #555;
+-icab-box-shadow:   12px 12px 29px #555;
+-khtml-box-shadow:  12px 12px 29px #555;
+-moz-box-shadow:    12px 12px 29px #555;
+-webkit-box-shadow: 12px 12px 29px #555;*/
+box-shadow:         12px 12px 20px #555;
+}
+
+.under {
+position:relative;
+left: 110px;
+bottom:30px;
+z-index:-1;
+}
+
+.over {
+position:relative;
+right:120px;
+top:50px;
+z-index:1;
+}
+
+#siberia {
+	font: 42px Georgia, serif; 
+}
 
 
 
