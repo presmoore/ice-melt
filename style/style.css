@@ -1,5 +1,6 @@
 body {
 	font-family: sans-serif;
+	background-color: #FFFFFF;
 }
 
 .content_wrapper {
@@ -29,11 +30,12 @@ ul.navigation li {
 }
 
 ul.navigation a {
-	font-size: 20px;
+	font-size: 19px;
 	font-family: sans-serif;
 	font-weight: bold;
 	color: white;
 	text-decoration: none;
+	letter-spacing: 1px;
 }
 
 ul.navigation a:hover {
@@ -145,7 +147,7 @@ h3.center {
 
 .team_photo {
 	width: 23%;
-	padding: 5px;
+	padding: 5px 5px 60px 5px;
 }
 
 /* TAKE ACTION */
